@@ -1,4 +1,4 @@
-'''
+
 #tuple
 day_of_the_week=("Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday")
 day_number=int(input("Enter the day number(1-7): "))
@@ -40,4 +40,3 @@ tuple3=tuple(map(int,input("Enter the tuple with space between the numbers: ").s
 print(tuple3)
 print(f"maximum value is {max(tuple3)}")
 print(f"minimum value is {min(tuple3)}")
-'''
