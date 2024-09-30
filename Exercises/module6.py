@@ -1,5 +1,5 @@
 #1
-'''
+
 import random
 
 def dice():
@@ -33,7 +33,7 @@ while True:
         print(conversion())
     else:
         break
-'''
+
 #4
 n=[]
 def listSum(n):
